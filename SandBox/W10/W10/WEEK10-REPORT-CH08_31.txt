@@ -1,0 +1,110 @@
+ZCZC ===== Chapter 08_31 =====  Week 10 =====
+ZCZC pwd /home/anisfarhan/git/os211quiz/SandBox/W10/W10
+ZCZC date 210529-2230
+ZCZC hostname anisfarhan
+ZCZC username anisfarhan
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3004-178A Verified
+ZCZC MaxLFS 4177M
+ZCZC MaxROOT 3594M
+ZCZC MaxMemory 101M
+ZCZC MaxSwap 0M
+ZCZC MaxLFS 4205M
+ZCZC MaxMemory 110M
+ZCZC MaxLFS 4307M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3107-C4B1 Verified
+ZCZC MaxLFS 4310M
+ZCZC MaxMemory 399M
+ZCZC MaxLFS 4311M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3209-CEDE Verified
+ZCZC MaxLFS 4323M
+ZCZC MaxLFS 4324M
+ZCZC MaxLFS 4334M
+ZCZC MaxLFS 4337M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3311-C679 Verified
+ZCZC MaxLFS 4350M
+ZCZC MaxLFS 4351M
+ZCZC MaxLFS 4352M
+ZCZC MaxLFS 4353M
+ZCZC MaxLFS 4355M
+ZCZC MaxLFS 4358M
+ZCZC MaxLFS 4362M
+ZCZC MaxLFS 4363M
+ZCZC MaxLFS 4370M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3412-4E98 Verified
+ZCZC MaxLFS 4371M
+ZCZC MaxLFS 4376M
+ZCZC MaxLFS 4379M
+ZCZC MaxLFS 4383M
+ZCZC MaxLFS 4390M
+ZCZC MaxLFS 4396M
+ZCZC MaxLFS 4402M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3514-33BC Verified
+ZCZC MaxLFS 4404M
+ZCZC MaxLFS 4425M
+ZCZC MaxLFS 4432M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3616-04CE Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3717-1E50 Verified
+ZCZC MaxMemory 817M
+ZCZC MaxMemory 1847M
+ZCZC MaxSwap 259M
+ZCZC MaxSwap 261M
+ZCZC MaxMemory 1850M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3820-6780 Verified
+ZCZC MaxSwap 315M
+ZCZC MaxSwap 366M
+ZCZC MaxMemory 1880M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 3922-08F7 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4024-A59F Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4127-6A4B Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4229-BFAE Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4331-F93A Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4433-4275 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4536-CE24 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4639-FCBE Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4743-30C1 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4848-920B Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 4953-D67D Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5054-02DD Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5155-1366 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5256-2D68 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5357-DFCC Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5500-254B Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5602-C4EB Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5706-8E7F Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5808-3960 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 5912-08F4 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0013-B96D Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0116-FAFC Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0218-7B47 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0322-D5B6 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0426-7A66 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0528-EDBD Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0630-3B3C Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0733-9BFB Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0835-B8C5 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 0936-460A Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1038-F7C4 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1141-555A Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1243-8A54 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1344-DF29 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1447-C979 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1548-C471 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1650-D565 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1752-5F61 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1854-606D Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 1957-D91C Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2058-65D6 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2159-8954 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2303-DA67 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2405-60C5 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2508-FFE9 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2612-5369 Verified
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2714-4C2E Verified
+ZCZC MaxLFS 4433M
+ZCZC MaxLFS 4439M
+ZCZC MaxLFS 4440M
+ZCZC verifyTokenn anisfarhanW10 anisfarhan 2818-E10E Verified
